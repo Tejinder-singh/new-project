@@ -34,4 +34,4 @@ COPY context.xml /usr/local/tomcat/webapps/manager/META-INF/context.xml
 EXPOSE 8080
 
 
-RUN echo hello
+
